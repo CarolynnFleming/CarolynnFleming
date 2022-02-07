@@ -4,9 +4,13 @@
 
 ### My Expertise:
 ⭐ Languages: HTML, CSS, JavaSript
+
 ⭐ Framework: currently learning React
+
 ⭐ Version Control: GitHub
+
 ⭐ Tools: Git, VS Code, Slack, Miro
+
 ⭐ Databases: Supabase
 
 
