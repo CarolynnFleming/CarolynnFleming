@@ -5,15 +5,15 @@
 ### My Expertise:
 ⭐ Languages: HTML, CSS, JavaSript
 
-⭐ Framework: currently learning React
+⭐ Frameworks & Library: React, Node, Express
 
 ⭐ Version Control: GitHub
 
-⭐ Tools: Git, VS Code, Slack, Miro
+⭐ Tools: Git, VS Code, Slack, Miro, Postman, Beekeeper Studio, Heroku, VS Code, Supabase
 
-⭐ Databases: Supabase
+⭐ Databases: PostgresSQL / SQL
 
-
+⭐ Dev Practices: TDD Pair Programming
 <!---
 CarolynnFleming/CarolynnFleming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
